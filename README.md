@@ -45,3 +45,17 @@ docker-compose down
 ![img_2.png](screenshots/img_2.png)
 * Start Tweet Consumer
 ![img_3.png](screenshots/img_3.png)
+
+
+## Homework 9
+
+### 1. Start
+
+To start the tweet producer and consumer, do all steps above. While tweet producer and consumer are running, you can see new csv files
+in `/data` folder.
+
+
+### 2. Screenshots
+![img.png](screenshots/img_4.png)
+![img_1.png](screenshots/img_5.png)
+![img_2.png](screenshots/img_6.png)
